@@ -39,7 +39,7 @@ public class LandingPage_TC extends BaseClass
 		LandingPageobj=new LandingPage();
 		Log.startTestCase("test Smoke1");		
 		System.out.println("test smoke1");
-		Log.info("test smoke");
+		Log.info("test smoke1");
 		LandingPageobj.clickLoginBtn();
 		Log.endTestCase("test Smoke1");		
 	}
@@ -50,7 +50,7 @@ public class LandingPage_TC extends BaseClass
 		Log.startTestCase("test Smoke2");		
 		LandingPageobj=new LandingPage();
 		System.out.println("test Smoke2");
-		Log.info("test Regression2");
+		Log.info("test Smoke2");
 		LandingPageobj.clickLoginBtn();
 		Log.endTestCase("test Smoke2");			
 	}
