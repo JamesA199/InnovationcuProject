@@ -51,13 +51,13 @@ public class Login_TC extends BaseClass
     	if (vFlag == true)
     	{
 			Log.info("Found login button");
-			Log.startTestCase("test Regression1");  
+			Log.startTestCase("LoginPage_Test");  
     		Assert.assertTrue(true);
     	}
     	else
     	{
 			Log.info("Did not find login button");
-			Log.startTestCase("test Regression1");  
+			Log.startTestCase("LoginPage_Test");  
     		Assert.assertTrue(false);
     	}
     		
@@ -94,6 +94,7 @@ public class Login_TC extends BaseClass
 		Iterator <String> it = windows.iterator();
 		String innovationHmPge = it.next();
 		String loginpage = it.next();
+		
 		getDriver().switchTo().window(loginpage);
 		String webPgeTitle = getDriver().getTitle();				
 
@@ -116,13 +117,25 @@ public class Login_TC extends BaseClass
     	if (webPgeTitle1.equals("Credential Financial Inc."))
     	{
 			Log.info("Website opened title: "+webPgeTitle1);
-			Log.endTestCase("test Regression1");  
+			getDriver().switchTo().window(credentialHmpg);
+			getDriver().close();
+			Log.info("Close Credential Finincial tab.");
+			getDriver().switchTo().window(loginpage1);
+			getDriver().close();
+			Log.info("Close login tab");
+			Log.endTestCase("openCredentialwebsite_Test");  
     		Assert.assertTrue(true);
     	}
     	else
     	{
-			Log.info("Website opened did not open: "+webPgeTitle1);
-			Log.endTestCase("test Regression1");  
+			Log.info("Website opened: "+webPgeTitle1);
+			getDriver().switchTo().window(credentialHmpg);
+			getDriver().close();
+			Log.info("Close Credential Finincial tab.");
+			getDriver().switchTo().window(loginpage1);
+			getDriver().close();
+			Log.info("Close login tab");
+			Log.endTestCase("openCredentialwebsite_Test");  
     		Assert.assertTrue(false);
     	}
 

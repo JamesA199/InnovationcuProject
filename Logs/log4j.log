@@ -1352,3 +1352,78 @@
 2023-09-26 08:55:50 INFO  Log:28 - Login | Innovation Federal Credit Union
 2023-09-26 08:55:53 INFO  Log:28 - Website opened title: Credential Financial Inc.
 2023-09-26 08:55:53 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-26 09:06:10 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 09:06:10 INFO  Log:28 - test smoke
+2023-09-26 09:06:11 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (ea074fe91f0ab5910e4c3aa3637375aa)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-26 09:06:11 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-26 09:06:16 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 09:06:16 INFO  Log:28 - test Regression2
+2023-09-26 09:06:16 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (4565c8d6c3a12fae2cffa0d15bfe8b32)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-26 09:06:16 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-26 09:06:23 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 09:06:23 INFO  Log:28 - test login
+2023-09-26 09:06:23 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (f2ac4c0063dbd1c295e7c2c4fdf7b6a2)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-26 09:06:26 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-26 09:06:26 INFO  Log:28 - Found login button
+2023-09-26 09:06:26 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 09:06:30 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (f2ac4c0063dbd1c295e7c2c4fdf7b6a2)] -> xpath: //a[normalize-space()='Business']]
+2023-09-26 09:06:30 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-26 09:06:30 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 09:06:36 INFO  Log:17 - =====================================openCredentialwebsite_Test TEST START=========================================
+2023-09-26 09:06:36 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (2f8156750a1209ebf1a9f52a4a859e46)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-26 09:06:39 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-26 09:06:42 INFO  Log:28 - Website opened title: Credential Financial Inc.
+2023-09-26 09:06:42 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-26 09:09:32 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 09:09:32 INFO  Log:28 - test login
+2023-09-26 09:09:32 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (86078ed7fce0f58111fa96fe88622f5a)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-26 09:09:35 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-26 09:09:36 INFO  Log:28 - Found login button
+2023-09-26 09:09:36 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 09:09:40 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (86078ed7fce0f58111fa96fe88622f5a)] -> xpath: //a[normalize-space()='Business']]
+2023-09-26 09:09:40 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-26 09:09:40 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 09:09:46 INFO  Log:17 - =====================================openCredentialwebsite_Test TEST START=========================================
+2023-09-26 09:09:46 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (fd93cedb27a7c0e809d20add79ba07a4)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-26 09:11:08 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 09:11:08 INFO  Log:28 - test login
+2023-09-26 09:11:08 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (e2ebc91c79c0ff9f6d03f9b58d529923)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-26 09:11:11 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-26 09:11:11 INFO  Log:28 - Found login button
+2023-09-26 09:11:11 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 09:11:15 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (e2ebc91c79c0ff9f6d03f9b58d529923)] -> xpath: //a[normalize-space()='Business']]
+2023-09-26 09:11:15 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-26 09:11:15 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 09:11:21 INFO  Log:17 - =====================================openCredentialwebsite_Test TEST START=========================================
+2023-09-26 09:11:21 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (2163215f6be0aed0ad216d90f43246de)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-26 09:11:24 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-26 09:14:06 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 09:14:06 INFO  Log:28 - test login
+2023-09-26 09:14:06 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (449224a50d3e6ee5af0976532b064882)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-26 09:14:09 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-26 09:14:09 INFO  Log:28 - Found login button
+2023-09-26 09:14:09 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 09:14:13 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (449224a50d3e6ee5af0976532b064882)] -> xpath: //a[normalize-space()='Business']]
+2023-09-26 09:14:13 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-26 09:14:13 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 09:14:19 INFO  Log:17 - =====================================openCredentialwebsite_Test TEST START=========================================
+2023-09-26 09:14:19 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (6ece440dbe17db1bd6d748c08d6bbc91)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-26 09:14:22 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-26 09:14:25 INFO  Log:28 - Website opened title: Credential Financial Inc.
+2023-09-26 09:14:25 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-26 09:18:55 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 09:18:55 INFO  Log:28 - test login
+2023-09-26 09:18:56 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (c3e4b870aedadd282ac71c45734e50c8)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-26 09:18:59 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-26 09:18:59 INFO  Log:28 - Found login button
+2023-09-26 09:18:59 INFO  Log:17 - =====================================LoginPage_Test TEST START=========================================
+2023-09-26 09:19:03 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (c3e4b870aedadd282ac71c45734e50c8)] -> xpath: //a[normalize-space()='Business']]
+2023-09-26 09:19:03 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-26 09:19:03 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 09:19:09 INFO  Log:17 - =====================================openCredentialwebsite_Test TEST START=========================================
+2023-09-26 09:19:09 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (984e12087543fdebcbdf83a19adda5ca)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-26 09:19:12 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-26 09:19:15 INFO  Log:28 - Website opened title: Credential Financial Inc.
+2023-09-26 09:19:15 INFO  Log:28 - Close Credential Finincial tab.
+2023-09-26 09:19:15 INFO  Log:28 - Close login tab
+2023-09-26 09:19:15 INFO  Log:21 - =====================================openCredentialwebsite_Test TEST END=========================================

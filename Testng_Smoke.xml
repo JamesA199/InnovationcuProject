@@ -13,7 +13,7 @@
 	</run>
 	</groups>   	
       <classes>
-	      	<class name="com.innovationcu.TestCases.LandingPage_TC"/>
+	      	<!--  class name="com.innovationcu.TestCases.LandingPage_TC"/>-->
 	      	<class name="com.innovationcu.TestCases.Login_TC"/>
       </classes>
    </test>
