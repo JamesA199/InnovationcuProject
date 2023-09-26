@@ -1,0 +1,1332 @@
+2023-09-24 01:45:22 INFO  Log:28 - test Regression1
+2023-09-24 01:45:22 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (899a854edf808789a263948f9c898b06)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 01:45:25 INFO  Log:28 - test Regression2
+2023-09-24 01:45:25 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (709019dc09282081c955ffdc33469923)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 01:54:45 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 01:54:45 INFO  Log:28 - test Regression1
+2023-09-24 01:54:45 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (b11be49f06d7ea8b08668e88bf23acca)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 01:54:45 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 01:54:48 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 01:54:48 INFO  Log:28 - test Regression2
+2023-09-24 01:54:48 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (9887812be691304925bff82b33d4ed00)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 01:54:48 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 01:56:48 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 01:56:48 INFO  Log:28 - test smoke
+2023-09-24 01:56:48 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (c793553abf8ef4b4564413453b12c80a)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 01:56:48 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 02:00:47 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 02:00:47 INFO  Log:28 - test smoke
+2023-09-24 02:00:47 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (577e37c04a965a75457bc100f4d8e0cc)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 02:00:47 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 02:29:37 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 02:29:37 INFO  Log:28 - test smoke
+2023-09-24 02:29:37 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (687dd1acb0736a7e2cba84ea944d7fed)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 02:29:37 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 02:34:05 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 02:34:05 INFO  Log:28 - test smoke
+2023-09-24 02:34:05 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (a9bdd422cca5ce1753e770ae793173de)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 02:34:05 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 02:36:31 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 02:36:31 INFO  Log:28 - test smoke
+2023-09-24 02:36:31 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (d6b5afe15ed3889b089aa4604104b00d)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 02:36:31 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 02:41:12 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 02:41:12 INFO  Log:28 - test smoke
+2023-09-24 02:41:13 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (a730d126b1e684849cfd9a2c6afeea9e)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 02:41:13 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 02:48:40 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 02:48:40 INFO  Log:28 - test smoke
+2023-09-24 02:48:41 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (cac0612a43f223336cc4acc259d4bcef)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 02:48:41 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 02:52:09 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 02:52:09 INFO  Log:28 - test Regression1
+2023-09-24 02:52:09 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (c8e89e46f70e42be073f225c86b0220a)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 02:52:09 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 02:52:15 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 02:52:15 INFO  Log:28 - test Regression2
+2023-09-24 02:52:15 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (b2235f1a3b3a00f3b4449054f5784e63)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 02:52:15 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 10:44:14 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 10:44:14 INFO  Log:28 - test smoke
+2023-09-24 10:44:15 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (a9605850965c3094087236ed9f07ad54)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 10:44:15 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 10:57:42 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 10:57:42 INFO  Log:28 - test smoke
+2023-09-24 10:57:42 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (3718990146d1b7fbac2065ba18174c93)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 10:57:42 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 10:59:13 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 10:59:13 INFO  Log:28 - test smoke
+2023-09-24 10:59:13 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (9d0c393fff78fde3e62077a68df76e19)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 10:59:13 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 11:11:41 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 11:11:41 INFO  Log:28 - test smoke
+2023-09-24 11:11:41 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (2969f3a934ada61681bd90ed945102cf)] -> xpath: //span[contains(text(),'Log i')]]
+2023-09-24 11:11:41 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 11:13:44 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 11:13:44 INFO  Log:28 - test smoke
+2023-09-24 11:16:10 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 11:16:10 INFO  Log:28 - test smoke
+2023-09-24 11:21:05 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 11:21:05 INFO  Log:28 - test smoke
+2023-09-24 19:19:39 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 19:19:39 INFO  Log:28 - test Regression1
+2023-09-24 19:22:15 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 19:22:15 INFO  Log:28 - test Regression1
+2023-09-24 19:22:15 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (ae2b09eb4c684e928088c34d24158a00)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 19:22:46 INFO  Log:28 - Unable to typed text: uname, into: Proxy element for: DefaultElementLocator 'By.id: UserName_Input'
+2023-09-24 19:22:46 INFO  Log:28 - Logged into Web Shop with user: uname
+2023-09-24 19:22:46 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 19:25:50 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 19:25:50 INFO  Log:28 - test Regression1
+2023-09-24 19:25:50 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (5772146137775535ccb28363b4d1b164)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 19:26:29 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 19:26:29 INFO  Log:28 - test Regression1
+2023-09-24 19:26:29 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (4f17d2e0a28233ebc6040aa06a272228)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 19:31:49 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 19:31:49 INFO  Log:28 - test Regression1
+2023-09-24 19:31:49 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (1776dc3598767e2f5ff2f7833ae3b07d)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 21:47:27 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 21:47:27 INFO  Log:28 - test Regression1
+2023-09-24 21:47:27 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (4230f2425f2f8566347019e82000d61e)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 22:06:29 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 22:06:29 INFO  Log:28 - test Regression1
+2023-09-24 22:14:53 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 22:14:53 INFO  Log:28 - test Regression1
+2023-09-24 22:19:55 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 22:19:55 INFO  Log:28 - test Regression1
+2023-09-24 22:39:24 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 22:39:24 INFO  Log:28 - test Regression1
+2023-09-24 22:39:24 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (4b6c3a3aba9ee1c4beffe8a3ecb5078a)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 22:45:30 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 22:45:30 INFO  Log:28 - test Regression1
+2023-09-24 22:45:30 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (0cb089311cbc77291e22c99c480844d7)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 22:47:04 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 22:47:04 INFO  Log:28 - test Regression1
+2023-09-24 22:47:04 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (5de0ed56857c5a0cb05ba95e8e5fb8b6)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 22:49:22 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 22:49:22 INFO  Log:28 - test Regression1
+2023-09-24 22:49:22 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (25d9c81258a04639022f2c92e2c33ba7)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 22:50:56 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 22:50:56 INFO  Log:28 - test Regression1
+2023-09-24 22:50:56 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (307229e507cca7843cf66462f06f3594)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 23:06:35 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:06:35 INFO  Log:28 - test Regression1
+2023-09-24 23:06:35 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (c931ef23296c0f5bf8d312b722b1bea8)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 23:06:38 INFO  Log:28 - Found login button
+2023-09-24 23:06:42 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (c931ef23296c0f5bf8d312b722b1bea8)] -> xpath: //a[normalize-space()='Business']]
+2023-09-24 23:06:42 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-24 23:17:02 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:17:02 INFO  Log:28 - test Regression1
+2023-09-24 23:17:02 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (e122f24105d9432fe85f3e73f5a8ac18)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 23:17:05 INFO  Log:28 - Found login button
+2023-09-24 23:17:05 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:17:09 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (e122f24105d9432fe85f3e73f5a8ac18)] -> xpath: //a[normalize-space()='Business']]
+2023-09-24 23:17:09 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-24 23:17:09 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:20:20 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:20:20 INFO  Log:28 - test Regression1
+2023-09-24 23:20:20 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (c6ec16f2a367f108dd903c4dff5af053)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 23:20:23 INFO  Log:28 - Found login button
+2023-09-24 23:20:23 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:20:27 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (c6ec16f2a367f108dd903c4dff5af053)] -> xpath: //a[normalize-space()='Business']]
+2023-09-24 23:20:27 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-24 23:20:27 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:20:31 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-09-24 23:20:31 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-09-24 23:20:31 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-09-24 23:20:31 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-09-24 23:20:31 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-09-24 23:20:31 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-09-24 23:20:31 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-09-24 23:20:31 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-09-24 23:20:31 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-09-24 23:20:31 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-09-24 23:20:31 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-09-24 23:20:31 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-09-24 23:20:31 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-09-24 23:20:31 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-09-24 23:20:31 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-09-24 23:20:31 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-09-24 23:20:31 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-09-24 23:20:31 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-09-24 23:20:31 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-09-24 23:20:31 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-09-24 23:20:31 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-09-24 23:20:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-09-24 23:20:31 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-09-24 23:24:49 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:24:49 INFO  Log:28 - test smoke
+2023-09-24 23:24:49 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (5820689ba5b79018563761c675e74508)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 23:24:49 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 23:24:55 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:24:55 INFO  Log:28 - test Regression1
+2023-09-24 23:24:55 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (5e10e819632aa0495a4f2189969f8633)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 23:24:58 INFO  Log:28 - Found login button
+2023-09-24 23:24:58 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:25:02 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (5e10e819632aa0495a4f2189969f8633)] -> xpath: //a[normalize-space()='Business']]
+2023-09-24 23:25:02 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-24 23:25:02 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:25:05 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-09-24 23:25:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-09-24 23:25:05 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-09-24 23:25:06 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-09-24 23:25:06 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-09-24 23:25:06 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-09-24 23:25:06 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-09-24 23:25:06 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-09-24 23:25:06 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-09-24 23:25:06 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-09-24 23:25:06 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-09-24 23:25:06 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-09-24 23:25:06 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-09-24 23:25:06 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-24 23:25:06 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-09-24 23:25:06 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-09-24 23:25:06 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-09-24 23:25:06 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-09-24 23:25:06 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-09-24 23:25:06 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-09-24 23:25:06 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-09-24 23:25:06 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-09-24 23:25:06 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-09-24 23:25:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-09-24 23:25:06 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-09-24 23:26:34 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:26:34 INFO  Log:28 - test smoke
+2023-09-24 23:26:34 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (4b514bd7e07bca1713f007a37a09a0e7)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 23:26:34 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 23:26:40 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:26:40 INFO  Log:28 - test Regression2
+2023-09-24 23:26:40 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (ceaf70fa8fd9ff74c7004858af7f6218)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 23:26:40 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 23:26:45 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:26:45 INFO  Log:28 - test Regression1
+2023-09-24 23:26:46 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (c4d4ef7b72768d4d65a491e4e107efba)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 23:26:49 INFO  Log:28 - Found login button
+2023-09-24 23:26:49 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:26:53 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (c4d4ef7b72768d4d65a491e4e107efba)] -> xpath: //a[normalize-space()='Business']]
+2023-09-24 23:26:53 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-24 23:26:53 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:26:56 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-09-24 23:26:56 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-09-24 23:26:56 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-09-24 23:26:56 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-09-24 23:26:56 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-09-24 23:26:56 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-09-24 23:26:56 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-09-24 23:26:56 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-09-24 23:26:56 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-09-24 23:26:56 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-09-24 23:26:56 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-09-24 23:26:56 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-09-24 23:26:56 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-24 23:26:56 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-24 23:26:56 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-09-24 23:26:56 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-09-24 23:26:56 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-09-24 23:26:56 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-09-24 23:26:56 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-09-24 23:26:56 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-09-24 23:26:56 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-09-24 23:26:56 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-09-24 23:26:56 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-09-24 23:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-09-24 23:26:56 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-09-24 23:32:55 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:32:55 INFO  Log:28 - test smoke
+2023-09-24 23:32:55 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (9791f1f07268c7be2ddeb7a5ade0f80d)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 23:32:55 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 23:33:01 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:33:01 INFO  Log:28 - test Regression2
+2023-09-24 23:33:01 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (3be6c3dd5661b59b7300142fcc567cd8)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 23:33:01 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 23:33:07 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:33:07 INFO  Log:28 - test Regression1
+2023-09-24 23:33:07 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (8a354c1c0fde7a7b4abe2309cc93801d)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 23:33:10 INFO  Log:28 - Found login button
+2023-09-24 23:33:10 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:33:14 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (8a354c1c0fde7a7b4abe2309cc93801d)] -> xpath: //a[normalize-space()='Business']]
+2023-09-24 23:33:14 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-24 23:33:14 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:33:17 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-09-24 23:33:17 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-09-24 23:33:17 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-09-24 23:33:17 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-09-24 23:33:17 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-09-24 23:33:17 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-09-24 23:33:17 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-09-24 23:33:17 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-09-24 23:33:17 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-09-24 23:33:17 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-09-24 23:33:17 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-09-24 23:33:17 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-09-24 23:33:17 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-24 23:33:17 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-24 23:33:17 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-09-24 23:33:17 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-09-24 23:33:17 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-09-24 23:33:17 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-09-24 23:33:17 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-09-24 23:33:17 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-09-24 23:33:17 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-09-24 23:33:17 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-09-24 23:33:17 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-09-24 23:33:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-09-24 23:33:17 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-09-24 23:36:28 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:36:28 INFO  Log:28 - test smoke
+2023-09-24 23:36:28 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (93070737000cac33c3d5031a73d04740)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 23:36:28 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 23:36:34 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:36:34 INFO  Log:28 - test Regression2
+2023-09-24 23:36:34 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (cada98dc4589fc13968d78a31b0e0a02)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 23:36:34 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-24 23:36:40 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:36:40 INFO  Log:28 - test Regression1
+2023-09-24 23:36:40 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (c2a6ef0caff9ebcbd9f4542cbb82ad6a)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-24 23:36:43 INFO  Log:28 - Found login button
+2023-09-24 23:36:43 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:36:47 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (c2a6ef0caff9ebcbd9f4542cbb82ad6a)] -> xpath: //a[normalize-space()='Business']]
+2023-09-24 23:36:47 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-24 23:36:47 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-24 23:36:50 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-09-24 23:36:50 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-09-24 23:36:50 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-09-24 23:36:50 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-09-24 23:36:50 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-09-24 23:36:50 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-09-24 23:36:50 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-09-24 23:36:50 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-09-24 23:36:50 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-09-24 23:36:50 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-09-24 23:36:50 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-09-24 23:36:50 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-09-24 23:36:50 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-24 23:36:50 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-24 23:36:50 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-09-24 23:36:50 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-09-24 23:36:50 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-09-24 23:36:50 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-09-24 23:36:50 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-09-24 23:36:50 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-09-24 23:36:50 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-09-24 23:36:50 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-09-24 23:36:50 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-09-24 23:36:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-09-24 23:36:50 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-09-25 08:56:04 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 08:56:04 INFO  Log:28 - test smoke
+2023-09-25 08:56:04 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (701889280f9ddfb3eae570fde9b6e86f)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 08:56:04 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 08:56:10 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 08:56:10 INFO  Log:28 - test Regression2
+2023-09-25 08:56:10 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (706fe06a611e13af2ad3dce68397ad48)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 08:56:10 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 08:56:16 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 08:56:16 INFO  Log:28 - test login
+2023-09-25 08:56:16 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (778010b4e210beb2eebad48979a2f04f)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 08:56:19 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 08:56:19 INFO  Log:28 - Found login button
+2023-09-25 08:56:19 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 08:56:24 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (778010b4e210beb2eebad48979a2f04f)] -> xpath: //a[normalize-space()='Business']]
+2023-09-25 08:56:24 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-25 08:56:24 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 08:56:27 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-09-25 08:56:27 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-09-25 08:56:27 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-09-25 08:56:27 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-09-25 08:56:27 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-09-25 08:56:27 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-09-25 08:56:27 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-09-25 08:56:27 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-09-25 08:56:27 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-09-25 08:56:27 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-09-25 08:56:27 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-09-25 08:56:27 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-09-25 08:56:27 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 08:56:27 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 08:56:27 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-09-25 08:56:27 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-09-25 08:56:27 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-09-25 08:56:27 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-09-25 08:56:27 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-09-25 08:56:27 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-09-25 08:56:27 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-09-25 08:56:27 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-09-25 08:56:27 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-09-25 08:56:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-09-25 08:56:27 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-09-25 08:57:48 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 08:57:48 INFO  Log:28 - test smoke
+2023-09-25 08:57:48 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (a45f49072fe7bbddbf7d17c15b09c4dd)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 08:57:48 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 08:57:54 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 08:57:54 INFO  Log:28 - test Regression2
+2023-09-25 08:57:54 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (bdf3bb8079f3ab360536d3628e6c7187)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 08:57:54 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 08:57:59 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 08:57:59 INFO  Log:28 - test login
+2023-09-25 08:58:00 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (31fca34c951b38a1d679e44cbd4f69c7)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 08:58:03 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 08:58:03 INFO  Log:28 - Found login button
+2023-09-25 08:58:03 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 08:58:07 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (31fca34c951b38a1d679e44cbd4f69c7)] -> xpath: //a[normalize-space()='Business']]
+2023-09-25 08:58:07 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-25 08:58:07 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 08:58:12 INFO  Log:17 - =====================================openCredentialwebsite_Test TEST START=========================================
+2023-09-25 08:58:13 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (dfe05ff2feb7db12c32d504c4fe926df)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 08:58:16 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 08:58:19 INFO  Log:28 - Website opened did not open: Login | Innovation Federal Credit Union
+2023-09-25 08:58:19 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 08:58:19 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-09-25 08:58:19 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-09-25 08:58:19 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-09-25 08:58:19 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-09-25 08:58:19 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-09-25 08:58:19 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-09-25 08:58:19 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-09-25 08:58:19 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-09-25 08:58:19 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-09-25 08:58:19 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-09-25 08:58:19 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-09-25 08:58:19 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-09-25 08:58:19 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 08:58:19 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 08:58:19 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 08:58:19 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 08:58:19 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-09-25 08:58:19 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-09-25 08:58:19 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-09-25 08:58:19 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-09-25 08:58:19 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-09-25 08:58:19 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-09-25 08:58:19 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-09-25 08:58:19 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-09-25 08:58:19 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-09-25 08:58:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-09-25 08:58:19 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-09-25 09:14:39 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 09:14:39 INFO  Log:28 - test smoke
+2023-09-25 09:14:40 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (87668eebfaf9deca812666305f62e941)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 09:14:40 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 09:14:45 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 09:14:45 INFO  Log:28 - test Regression2
+2023-09-25 09:14:45 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (74620c5afea077129ab58839f64dc3e9)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 09:14:45 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 09:14:51 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 09:14:51 INFO  Log:28 - test login
+2023-09-25 09:14:51 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (3269bbcfd6ffcdefee794524247ca6a8)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 09:14:54 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 09:14:55 INFO  Log:28 - Found login button
+2023-09-25 09:14:55 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 09:14:59 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (3269bbcfd6ffcdefee794524247ca6a8)] -> xpath: //a[normalize-space()='Business']]
+2023-09-25 09:14:59 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-25 09:14:59 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 09:15:02 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-09-25 09:15:02 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-09-25 09:15:02 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-09-25 09:15:02 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-09-25 09:15:02 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-09-25 09:15:02 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-09-25 09:15:02 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-09-25 09:15:02 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-09-25 09:15:02 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-09-25 09:15:02 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-09-25 09:15:02 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-09-25 09:15:02 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-09-25 09:15:02 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 09:15:02 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 09:15:02 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-09-25 09:15:02 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-09-25 09:15:02 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-09-25 09:15:02 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-09-25 09:15:02 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-09-25 09:15:02 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-09-25 09:15:02 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-09-25 09:15:02 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-09-25 09:15:02 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-09-25 09:15:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-09-25 09:15:02 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-09-25 09:15:46 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 09:15:46 INFO  Log:28 - test smoke
+2023-09-25 09:15:46 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (85504cdf47e964e3a4ae8fe18faa9de7)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 09:15:46 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 09:15:53 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 09:15:53 INFO  Log:28 - test Regression2
+2023-09-25 09:15:53 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (cbf0dc58d198be434451a51a0caa3bc6)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 09:15:53 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 09:16:00 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 09:16:00 INFO  Log:28 - test login
+2023-09-25 09:16:00 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (8c5334fc1a09d19779b1561d7066af9e)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 09:16:03 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 09:16:03 INFO  Log:28 - Found login button
+2023-09-25 09:16:03 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 09:16:07 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (8c5334fc1a09d19779b1561d7066af9e)] -> xpath: //a[normalize-space()='Business']]
+2023-09-25 09:16:07 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-25 09:16:07 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 09:16:13 INFO  Log:17 - =====================================openCredentialwebsite_Test TEST START=========================================
+2023-09-25 09:16:13 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (184f979f394e72bd22b9d4a3244b53ba)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 09:16:16 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 09:16:19 INFO  Log:28 - Website opened title: Credential Financial Inc.
+2023-09-25 09:16:19 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 09:16:22 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-09-25 09:16:22 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-09-25 09:16:22 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-09-25 09:16:22 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-09-25 09:16:22 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-09-25 09:16:22 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-09-25 09:16:22 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-09-25 09:16:22 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-09-25 09:16:22 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-09-25 09:16:22 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-09-25 09:16:22 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-09-25 09:16:22 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-09-25 09:16:22 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 09:16:22 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 09:16:22 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 09:16:22 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-09-25 09:16:22 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-09-25 09:16:22 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-09-25 09:16:22 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-09-25 09:16:22 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-09-25 09:16:22 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-09-25 09:16:22 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-09-25 09:16:22 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-09-25 09:16:22 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-09-25 09:16:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-09-25 09:16:22 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-09-25 09:59:22 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 09:59:22 INFO  Log:28 - test smoke
+2023-09-25 09:59:22 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (e5280bf8d56383c837421332de19bb29)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 09:59:22 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 09:59:29 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 09:59:29 INFO  Log:28 - test Regression2
+2023-09-25 09:59:29 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (b7a6ac73374cd536d4f88029e7217c1d)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 09:59:29 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 09:59:35 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 09:59:35 INFO  Log:28 - test login
+2023-09-25 09:59:35 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (6a6d7a00ddb5689cfb58593fb318ba44)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 09:59:38 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 09:59:38 INFO  Log:28 - Found login button
+2023-09-25 09:59:38 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 09:59:43 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (6a6d7a00ddb5689cfb58593fb318ba44)] -> xpath: //a[normalize-space()='Business']]
+2023-09-25 09:59:43 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-25 09:59:43 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 09:59:49 INFO  Log:17 - =====================================openCredentialwebsite_Test TEST START=========================================
+2023-09-25 09:59:49 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (6ae72a5a7f652bcee97d29000c916a19)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 09:59:52 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 09:59:55 INFO  Log:28 - Website opened title: Credential Financial Inc.
+2023-09-25 09:59:55 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 09:59:58 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-09-25 09:59:58 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-09-25 09:59:58 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-09-25 09:59:58 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-09-25 09:59:58 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-09-25 09:59:58 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-09-25 09:59:58 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-09-25 09:59:58 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-09-25 09:59:58 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-09-25 09:59:58 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-09-25 09:59:58 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-09-25 09:59:58 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-09-25 09:59:58 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 09:59:58 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 09:59:58 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 09:59:58 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-09-25 09:59:58 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-09-25 09:59:58 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-09-25 09:59:58 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-09-25 09:59:58 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-09-25 09:59:58 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-09-25 09:59:58 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-09-25 09:59:58 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-09-25 09:59:58 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-09-25 09:59:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-09-25 09:59:58 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-09-25 10:02:37 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 10:02:37 INFO  Log:28 - test smoke
+2023-09-25 10:02:37 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (1ceadf6ccec56f2c4ef6f6159060dc29)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 10:02:37 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 10:02:43 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 10:02:43 INFO  Log:28 - test Regression2
+2023-09-25 10:02:43 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (6e2986d7c675014c4df26f024c8c4fd8)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 10:02:43 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 10:02:49 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 10:02:49 INFO  Log:28 - test login
+2023-09-25 10:02:49 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (d3d903c42785523209b0db3e69367898)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 10:02:52 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 10:02:52 INFO  Log:28 - Found login button
+2023-09-25 10:02:52 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 10:02:56 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (d3d903c42785523209b0db3e69367898)] -> xpath: //a[normalize-space()='Business']]
+2023-09-25 10:02:56 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-25 10:02:56 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 10:03:02 INFO  Log:17 - =====================================openCredentialwebsite_Test TEST START=========================================
+2023-09-25 10:03:02 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (6fe6532374b26928d7d45e8242c598e6)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 10:03:05 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 10:03:08 INFO  Log:28 - Website opened title: Credential Financial Inc.
+2023-09-25 10:03:08 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 10:03:11 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-09-25 10:03:11 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-09-25 10:03:11 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-09-25 10:03:11 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-09-25 10:03:11 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-09-25 10:03:11 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-09-25 10:03:11 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-09-25 10:03:11 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-09-25 10:03:11 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-09-25 10:03:11 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-09-25 10:03:11 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-09-25 10:03:11 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-09-25 10:03:11 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 10:03:11 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 10:03:11 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 10:03:11 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-09-25 10:03:11 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-09-25 10:03:11 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-09-25 10:03:11 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-09-25 10:03:11 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-09-25 10:03:11 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-09-25 10:03:11 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-09-25 10:03:11 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-09-25 10:03:11 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-09-25 10:03:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-09-25 10:03:11 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-09-25 10:07:34 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 10:07:34 INFO  Log:28 - test smoke
+2023-09-25 10:07:34 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (3a3f4e2b7817acf57e4cadba26dc5368)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 10:07:34 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 10:07:40 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 10:07:40 INFO  Log:28 - test Regression2
+2023-09-25 10:07:40 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (070f553fcbc54650d4be8eba87e607a1)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 10:07:40 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 10:07:45 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 10:07:45 INFO  Log:28 - test login
+2023-09-25 10:07:46 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (432c2356662a886c7fea8391fbe63d50)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 10:07:49 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 10:07:49 INFO  Log:28 - Found login button
+2023-09-25 10:07:49 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 10:07:54 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (432c2356662a886c7fea8391fbe63d50)] -> xpath: //a[normalize-space()='Business']]
+2023-09-25 10:07:54 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-25 10:07:54 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 10:07:59 INFO  Log:17 - =====================================openCredentialwebsite_Test TEST START=========================================
+2023-09-25 10:07:59 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (cc4069dcb0c2933c64fdbce7b17515cc)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 10:08:03 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 10:08:06 INFO  Log:28 - Website opened title: Credential Financial Inc.
+2023-09-25 10:08:06 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 10:08:09 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-09-25 10:08:09 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-09-25 10:08:09 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-09-25 10:08:09 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-09-25 10:08:09 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-09-25 10:08:09 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-09-25 10:08:09 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-09-25 10:08:09 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-09-25 10:08:09 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-09-25 10:08:09 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-09-25 10:08:09 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-09-25 10:08:09 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-09-25 10:08:09 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 10:08:09 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 10:08:09 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 10:08:09 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-09-25 10:08:09 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-09-25 10:08:09 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-09-25 10:08:09 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-09-25 10:08:09 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-09-25 10:08:09 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-09-25 10:08:09 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-09-25 10:08:09 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-09-25 10:08:09 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-09-25 10:08:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-09-25 10:08:09 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-09-25 10:54:29 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 10:54:29 INFO  Log:28 - test smoke
+2023-09-25 10:54:29 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (26a238f465c490b3df11738728edea59)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 10:54:29 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 10:54:36 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 10:54:36 INFO  Log:28 - test Regression2
+2023-09-25 10:54:36 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (e53b01ac123664ed70dae4313c8ee632)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 10:54:36 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 10:54:42 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 10:54:42 INFO  Log:28 - test login
+2023-09-25 10:54:42 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (849424e66869449cf2e4b30ec8841ee2)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 10:54:45 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 10:54:45 INFO  Log:28 - Found login button
+2023-09-25 10:54:45 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 10:54:50 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (849424e66869449cf2e4b30ec8841ee2)] -> xpath: //a[normalize-space()='Business']]
+2023-09-25 10:54:50 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-25 10:54:50 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 10:54:56 INFO  Log:17 - =====================================openCredentialwebsite_Test TEST START=========================================
+2023-09-25 10:54:56 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (7f2d1d3efc3c2ef52480e9a7071d7343)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 10:54:59 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 10:55:02 INFO  Log:28 - Website opened title: Credential Financial Inc.
+2023-09-25 10:55:02 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 10:55:06 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-09-25 10:55:06 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-09-25 10:55:06 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-09-25 10:55:06 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-09-25 10:55:06 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-09-25 10:55:06 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-09-25 10:55:06 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-09-25 10:55:06 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-09-25 10:55:06 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-09-25 10:55:06 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-09-25 10:55:06 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-09-25 10:55:06 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-09-25 10:55:06 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 10:55:06 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 10:55:06 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 10:55:06 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-09-25 10:55:06 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-09-25 10:55:06 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-09-25 10:55:06 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-09-25 10:55:06 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-09-25 10:55:06 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-09-25 10:55:06 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-09-25 10:55:06 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-09-25 10:55:06 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-09-25 10:55:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-09-25 10:55:06 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-09-25 11:02:49 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 11:02:49 INFO  Log:28 - test smoke
+2023-09-25 11:02:49 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (5907c4a927f59fafde6d3af1f663ef40)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 11:02:49 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 11:02:55 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 11:02:55 INFO  Log:28 - test Regression2
+2023-09-25 11:02:55 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (2fae424b2d8dc8e8ee910b56e2c21a76)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 11:02:55 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 11:03:01 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 11:03:01 INFO  Log:28 - test login
+2023-09-25 11:03:01 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (43b2fd527d987322aa40a24645371be7)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 11:03:04 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 11:03:04 INFO  Log:28 - Found login button
+2023-09-25 11:03:04 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 11:03:09 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (43b2fd527d987322aa40a24645371be7)] -> xpath: //a[normalize-space()='Business']]
+2023-09-25 11:03:09 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-25 11:03:09 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 11:03:15 INFO  Log:17 - =====================================openCredentialwebsite_Test TEST START=========================================
+2023-09-25 11:03:15 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (3a20d2f8cc1714beabca60135ed61c07)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 11:03:18 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 11:03:21 INFO  Log:28 - Website opened title: Credential Financial Inc.
+2023-09-25 11:03:21 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 11:03:24 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-09-25 11:03:24 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-09-25 11:03:24 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-09-25 11:03:24 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-09-25 11:03:24 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-09-25 11:03:24 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-09-25 11:03:24 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-09-25 11:03:24 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-09-25 11:03:24 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-09-25 11:03:24 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-09-25 11:03:24 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-09-25 11:03:24 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-09-25 11:03:24 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 11:03:24 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 11:03:24 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 11:03:24 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-09-25 11:03:24 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-09-25 11:03:24 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-09-25 11:03:24 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-09-25 11:03:24 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-09-25 11:03:24 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-09-25 11:03:24 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-09-25 11:03:24 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-09-25 11:03:24 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-09-25 11:03:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-09-25 11:03:24 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-09-25 11:19:46 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 11:19:46 INFO  Log:28 - test smoke
+2023-09-25 11:19:46 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (8d5ff3f0ddaf5db8d20181b7880a8ca1)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 11:19:46 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 11:19:52 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 11:19:52 INFO  Log:28 - test Regression2
+2023-09-25 11:19:52 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (3b23ea096d9648fe5a396764eecdd7fb)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 11:19:52 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 11:19:58 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 11:19:58 INFO  Log:28 - test login
+2023-09-25 11:19:58 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (30d97458561496ee46c47a628ca64a9c)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 11:20:01 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 11:20:01 INFO  Log:28 - Found login button
+2023-09-25 11:20:01 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 11:20:06 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (30d97458561496ee46c47a628ca64a9c)] -> xpath: //a[normalize-space()='Business']]
+2023-09-25 11:20:06 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-25 11:20:06 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 11:20:12 INFO  Log:17 - =====================================openCredentialwebsite_Test TEST START=========================================
+2023-09-25 11:20:12 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (ccb8971339157e0b58cd139a265375e3)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 11:20:15 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 11:20:18 INFO  Log:28 - Website opened title: Credential Financial Inc.
+2023-09-25 11:20:18 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 11:20:21 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-09-25 11:20:21 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-09-25 11:20:21 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-09-25 11:20:21 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-09-25 11:20:21 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-09-25 11:20:21 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-09-25 11:20:21 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-09-25 11:20:21 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-09-25 11:20:21 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-09-25 11:20:21 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-09-25 11:20:21 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-09-25 11:20:21 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-09-25 11:20:21 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 11:20:21 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 11:20:21 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 11:20:21 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-09-25 11:20:21 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-09-25 11:20:21 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-09-25 11:20:21 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-09-25 11:20:21 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-09-25 11:20:21 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-09-25 11:20:21 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-09-25 11:20:21 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-09-25 11:20:21 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-09-25 11:20:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-09-25 11:20:21 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-09-25 13:30:55 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 13:30:55 INFO  Log:28 - test smoke
+2023-09-25 13:30:55 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (29ef0af8012af34cf7837942d72b557c)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 13:30:55 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 13:31:01 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 13:31:01 INFO  Log:28 - test Regression2
+2023-09-25 13:31:01 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (6031028afada8a82d80bdd6ec8563312)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 13:31:01 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 13:31:07 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 13:31:07 INFO  Log:28 - test login
+2023-09-25 13:31:07 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (12b38c7172558141dc1646906debf497)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 13:31:10 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 13:31:10 INFO  Log:28 - Found login button
+2023-09-25 13:31:10 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 13:31:14 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (12b38c7172558141dc1646906debf497)] -> xpath: //a[normalize-space()='Business']]
+2023-09-25 13:31:14 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-25 13:31:14 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 13:31:20 INFO  Log:17 - =====================================openCredentialwebsite_Test TEST START=========================================
+2023-09-25 13:31:20 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (330560c0ccdcb4d5393569115d2d3a6b)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 13:31:23 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 13:31:26 INFO  Log:28 - Website opened title: Credential Financial Inc.
+2023-09-25 13:31:26 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 13:31:30 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-09-25 13:31:30 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-09-25 13:31:30 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-09-25 13:31:30 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-09-25 13:31:30 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-09-25 13:31:30 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-09-25 13:31:30 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-09-25 13:31:30 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-09-25 13:31:30 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-09-25 13:31:30 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-09-25 13:31:30 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-09-25 13:31:30 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-09-25 13:31:30 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 13:31:30 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 13:31:30 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 13:31:30 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-09-25 13:31:30 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-09-25 13:31:30 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-09-25 13:31:30 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-09-25 13:31:30 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-09-25 13:31:30 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-09-25 13:31:30 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-09-25 13:31:30 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-09-25 13:31:30 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-09-25 13:31:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-09-25 13:31:30 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-09-25 13:59:24 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 13:59:24 INFO  Log:28 - test smoke
+2023-09-25 13:59:24 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (fed34b7625805d08f9d042d7362f5af3)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 13:59:24 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 13:59:30 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 13:59:30 INFO  Log:28 - test Regression2
+2023-09-25 13:59:30 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (eec39e72f2ac8d91877961b563128584)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 13:59:30 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 13:59:36 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 13:59:36 INFO  Log:28 - test login
+2023-09-25 13:59:36 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (133927d754add35cddd2c16bf1485a6b)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 13:59:39 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 13:59:39 INFO  Log:28 - Found login button
+2023-09-25 13:59:39 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 13:59:44 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (133927d754add35cddd2c16bf1485a6b)] -> xpath: //a[normalize-space()='Business']]
+2023-09-25 13:59:44 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-25 13:59:44 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 13:59:49 INFO  Log:17 - =====================================openCredentialwebsite_Test TEST START=========================================
+2023-09-25 13:59:50 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (088693b2683d7ea0f19b1dedb007e925)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 13:59:53 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 13:59:56 INFO  Log:28 - Website opened title: Credential Financial Inc.
+2023-09-25 13:59:56 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 13:59:59 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-09-25 13:59:59 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-09-25 13:59:59 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-09-25 13:59:59 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-09-25 13:59:59 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-09-25 13:59:59 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-09-25 13:59:59 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-09-25 13:59:59 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-09-25 13:59:59 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-09-25 13:59:59 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-09-25 13:59:59 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-09-25 13:59:59 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-09-25 13:59:59 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 13:59:59 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 13:59:59 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 13:59:59 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-09-25 13:59:59 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-09-25 13:59:59 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-09-25 13:59:59 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-09-25 13:59:59 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-09-25 13:59:59 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-09-25 13:59:59 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-09-25 13:59:59 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-09-25 13:59:59 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-09-25 13:59:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-09-25 13:59:59 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-09-25 14:16:04 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 14:16:04 INFO  Log:28 - test smoke
+2023-09-25 14:16:04 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (29ab71f09c37fd9a0a0fb35c41873b11)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 14:16:04 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 14:16:11 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 14:16:11 INFO  Log:28 - test Regression2
+2023-09-25 14:16:11 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (bf27077d64d208d77d08bda5bc5a82bb)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 14:16:11 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 14:16:17 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 14:16:17 INFO  Log:28 - test login
+2023-09-25 14:16:17 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (b1cc575bbff6d2ced45767cb095ebd7f)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 14:16:20 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 14:16:21 INFO  Log:28 - Found login button
+2023-09-25 14:16:21 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 14:16:25 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (b1cc575bbff6d2ced45767cb095ebd7f)] -> xpath: //a[normalize-space()='Business']]
+2023-09-25 14:16:25 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-25 14:16:25 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-25 14:16:31 INFO  Log:17 - =====================================openCredentialwebsite_Test TEST START=========================================
+2023-09-25 14:16:31 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (24160e211c88e56f8fbe46b39f1223ba)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-25 14:16:34 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-25 14:16:37 INFO  Log:28 - Website opened title: Credential Financial Inc.
+2023-09-25 14:16:37 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-25 14:16:41 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-09-25 14:16:41 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-09-25 14:16:41 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-09-25 14:16:41 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-09-25 14:16:41 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-09-25 14:16:41 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-09-25 14:16:41 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-09-25 14:16:41 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-09-25 14:16:41 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-09-25 14:16:41 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-09-25 14:16:41 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-09-25 14:16:41 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-09-25 14:16:41 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 14:16:41 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 14:16:41 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-09-25 14:16:41 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-09-25 14:16:41 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-09-25 14:16:41 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-09-25 14:16:41 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-09-25 14:16:41 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-09-25 14:16:41 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-09-25 14:16:41 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-09-25 14:16:41 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-09-25 14:16:41 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-09-25 14:16:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-09-25 14:16:41 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/write/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-09-26 00:10:06 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 00:10:06 INFO  Log:28 - test Regression1
+2023-09-26 00:10:06 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (8c92531e3a296c5db32f2f088d89852d)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-26 00:10:06 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-26 00:16:27 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 00:16:27 INFO  Log:28 - test smoke
+2023-09-26 00:16:27 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (f2297e547cad4a2e10ebe4443f1bd11a)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-26 00:16:27 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-26 00:16:33 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 00:16:33 INFO  Log:28 - test Regression2
+2023-09-26 00:16:33 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (80bcdd2ed6d19e9b07dc4df273c0399d)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-26 00:16:33 INFO  Log:21 - =====================================test Regression1 TEST END=========================================
+2023-09-26 00:16:39 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 00:16:39 INFO  Log:28 - test login
+2023-09-26 00:16:39 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (401ae116d4da08c96da1602a5edd2675)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-26 00:16:42 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-26 00:16:43 INFO  Log:28 - Found login button
+2023-09-26 00:16:43 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 00:16:47 INFO  Log:28 - Clicked on Link WebElement: [[ChromeDriver: chrome on windows (401ae116d4da08c96da1602a5edd2675)] -> xpath: //a[normalize-space()='Business']]
+2023-09-26 00:16:47 INFO  Log:28 - Business page title: The Best Business Bank Account in Canada | Innovation Federal Credit Union
+2023-09-26 00:16:47 INFO  Log:17 - =====================================test Regression1 TEST START=========================================
+2023-09-26 00:16:53 INFO  Log:17 - =====================================openCredentialwebsite_Test TEST START=========================================
+2023-09-26 00:16:53 INFO  Log:28 - Clicked on Button WebElement: [[ChromeDriver: chrome on windows (de84d6cb312c61ab76ed77e9ba4f6536)] -> xpath: //span[contains(text(),'Log in')]]
+2023-09-26 00:16:56 INFO  Log:28 - Login | Innovation Federal Credit Union
+2023-09-26 00:16:59 INFO  Log:28 - Website opened title: Credential Financial Inc.
+2023-09-26 00:16:59 INFO  Log:21 - =====================================test Regression1 TEST END=========================================

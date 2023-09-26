@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "RegressionSuite1">
+	<listeners>
+		<listener class-name="com.innovationcu.utility.ListenerClass"></listener>
+	</listeners>
+	<test name = "Innovationcu Bank Test">
+   	<parameter name="browser" value="chrome" />
+	<groups>
+	<run>
+		<include name="Regression"></include>
+	</run>
+	</groups>   	
+      <classes>
+	      	<class name="com.innovationcu.TestCases.LandingPage_TC"/>
+      </classes>
+   </test>
+
+</suite>
