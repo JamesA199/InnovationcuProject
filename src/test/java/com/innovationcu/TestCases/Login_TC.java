@@ -26,7 +26,7 @@ public class Login_TC extends BaseClass
 	{
 				
 		landingPageobj=new LandingPage();
-		Log.startTestCase("test Regression1");
+		Log.startTestCase("LoginPage_Test");
 
 		Log.info("test login");
 		landingPageobj.clickLoginBtn();
@@ -50,13 +50,13 @@ public class Login_TC extends BaseClass
     	if (vFlag == true)
     	{
 			Log.info("Found login button");
-			Log.startTestCase("LoginPage_Test");  
+			Log.endTestCase("LoginPage_Test");  
     		Assert.assertTrue(true);
     	}
     	else
     	{
 			Log.info("Did not find login button");
-			Log.startTestCase("LoginPage_Test");  
+			Log.endTestCase("LoginPage_Test");  
     		Assert.assertTrue(false);
     	}
 
