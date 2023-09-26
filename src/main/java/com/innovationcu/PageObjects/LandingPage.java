@@ -51,11 +51,18 @@ public class LandingPage extends BaseClass
 
 	}	
 	
-	public LoginPage clickBusinessLnk()
+	public LoginPage clickPersonalLnk()
 	{
-		ActionDriver.click(getDriver(), businessLnk, "Link");
+		ActionDriver.click(getDriver(), personalLnk, "Link");
 		return new LoginPage();
 
 	}	
+	
+	public BusinessPage clickBusinessLnk()
+	{
+		ActionDriver.click(getDriver(), businessLnk, "Link");
+		return new BusinessPage();
+
+	}
 	
 }

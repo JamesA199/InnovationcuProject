@@ -37,21 +37,21 @@ public class LandingPage_TC extends BaseClass
 	public void clickLink_Test2()
 	{
 		LandingPageobj=new LandingPage();
-		Log.startTestCase("test Regression1");		
-		System.out.println("test smoke");
+		Log.startTestCase("test Smoke1");		
+		System.out.println("test smoke1");
 		Log.info("test smoke");
 		LandingPageobj.clickLoginBtn();
-		Log.endTestCase("test Regression1");		
+		Log.endTestCase("test Smoke1");		
 	}
 	
 	@Test(groups = {"Smoke"})
 	public void clickLink_Test3()
 	{
-		Log.startTestCase("test Regression1");		
+		Log.startTestCase("test Smoke2");		
 		LandingPageobj=new LandingPage();
-		System.out.println("test Regression2");
+		System.out.println("test Smoke2");
 		Log.info("test Regression2");
 		LandingPageobj.clickLoginBtn();
-		Log.endTestCase("test Regression1");			
+		Log.endTestCase("test Smoke2");			
 	}
 }

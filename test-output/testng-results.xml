@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-26T09:18:52 MDT" name="SmokeSuite1" finished-at="2023-09-26T09:19:18 MDT" duration-ms="26263">
+  <suite started-at="2023-09-26T10:12:18 MDT" name="SmokeSuite1" finished-at="2023-09-26T10:12:39 MDT" duration-ms="20371">
     <groups>
       <group name="Smoke">
-        <method signature="Login_TC.LoginPage_Test()[pri:0, instance:com.innovationcu.TestCases.Login_TC@3ce1e309]" name="LoginPage_Test" class="com.innovationcu.TestCases.Login_TC"/>
-        <method signature="Login_TC.openCredentialwebsite_Test()[pri:0, instance:com.innovationcu.TestCases.Login_TC@3ce1e309]" name="openCredentialwebsite_Test" class="com.innovationcu.TestCases.Login_TC"/>
+        <method signature="Credential_TC.openCredentialwebsite_Test()[pri:0, instance:com.innovationcu.TestCases.Credential_TC@6aba2b86]" name="openCredentialwebsite_Test" class="com.innovationcu.TestCases.Credential_TC"/>
+        <method signature="LandingLinks_TC.OpenLinks_Test()[pri:0, instance:com.innovationcu.TestCases.LandingLinks_TC@158da8e]" name="OpenLinks_Test" class="com.innovationcu.TestCases.LandingLinks_TC"/>
       </group> <!-- Smoke -->
     </groups>
-    <test started-at="2023-09-26T09:18:52 MDT" name="Innovationcu Bank Test" finished-at="2023-09-26T09:19:18 MDT" duration-ms="26263">
-      <class name="com.innovationcu.TestCases.Login_TC">
-        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.innovationcu.TestCases.Login_TC@3ce1e309]" started-at="2023-09-26T09:18:52 MDT" name="loadConfig" finished-at="2023-09-26T09:18:52 MDT" duration-ms="162" status="PASS">
+    <test started-at="2023-09-26T10:12:18 MDT" name="Innovationcu Bank Test" finished-at="2023-09-26T10:12:39 MDT" duration-ms="20371">
+      <class name="com.innovationcu.TestCases.Credential_TC">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.innovationcu.TestCases.Credential_TC@6aba2b86]" started-at="2023-09-26T10:12:18 MDT" name="loadConfig" finished-at="2023-09-26T10:12:18 MDT" duration-ms="158" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loadConfig -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.innovationcu.TestCases.Login_TC@3ce1e309]" started-at="2023-09-26T09:18:52 MDT" name="setup" finished-at="2023-09-26T09:18:55 MDT" duration-ms="3394" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.innovationcu.TestCases.Credential_TC@6aba2b86]" started-at="2023-09-26T10:12:18 MDT" name="setup" finished-at="2023-09-26T10:12:21 MDT" duration-ms="3329" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,34 +26,36 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="LoginPage_Test()[pri:0, instance:com.innovationcu.TestCases.Login_TC@3ce1e309]" started-at="2023-09-26T09:18:55 MDT" name="LoginPage_Test" finished-at="2023-09-26T09:19:03 MDT" duration-ms="7471" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- LoginPage_Test -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.innovationcu.TestCases.Login_TC@3ce1e309]" started-at="2023-09-26T09:19:03 MDT" name="tearDown" finished-at="2023-09-26T09:19:06 MDT" duration-ms="3205" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.innovationcu.TestCases.Login_TC@3ce1e309]" started-at="2023-09-26T09:19:06 MDT" name="setup" finished-at="2023-09-26T09:19:09 MDT" duration-ms="2601" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="openCredentialwebsite_Test()[pri:0, instance:com.innovationcu.TestCases.Login_TC@3ce1e309]" started-at="2023-09-26T09:19:09 MDT" name="openCredentialwebsite_Test" finished-at="2023-09-26T09:19:15 MDT" duration-ms="6417" status="PASS">
+        <test-method signature="openCredentialwebsite_Test()[pri:0, instance:com.innovationcu.TestCases.Credential_TC@6aba2b86]" started-at="2023-09-26T10:12:21 MDT" name="openCredentialwebsite_Test" finished-at="2023-09-26T10:12:28 MDT" duration-ms="6423" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openCredentialwebsite_Test -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.innovationcu.TestCases.Login_TC@3ce1e309]" started-at="2023-09-26T09:19:15 MDT" name="tearDown" finished-at="2023-09-26T09:19:18 MDT" duration-ms="3151" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.innovationcu.TestCases.Credential_TC@6aba2b86]" started-at="2023-09-26T10:12:28 MDT" name="tearDown" finished-at="2023-09-26T10:12:31 MDT" duration-ms="3148" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.innovationcu.TestCases.Login_TC -->
+      </class> <!-- com.innovationcu.TestCases.Credential_TC -->
+      <class name="com.innovationcu.TestCases.LandingLinks_TC">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.innovationcu.TestCases.LandingLinks_TC@158da8e]" started-at="2023-09-26T10:12:31 MDT" name="setup" finished-at="2023-09-26T10:12:34 MDT" duration-ms="2509" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="OpenLinks_Test()[pri:0, instance:com.innovationcu.TestCases.LandingLinks_TC@158da8e]" started-at="2023-09-26T10:12:34 MDT" name="OpenLinks_Test" finished-at="2023-09-26T10:12:35 MDT" duration-ms="1783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenLinks_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.innovationcu.TestCases.LandingLinks_TC@158da8e]" started-at="2023-09-26T10:12:35 MDT" name="tearDown" finished-at="2023-09-26T10:12:39 MDT" duration-ms="3153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.innovationcu.TestCases.LandingLinks_TC -->
     </test> <!-- Innovationcu Bank Test -->
   </suite> <!-- SmokeSuite1 -->
 </testng-results>

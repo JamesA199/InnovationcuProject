@@ -91,7 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">4 methods,   4 passed</span>
+                    <span class="method-stats">5 methods,   5 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -107,6 +107,11 @@
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-SmokeSuite1" title="com.innovationcu.TestCases.LandingLinks_TC" class="method navigator-link" hash-for-method="OpenLinks_Test">OpenLinks_Test</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
                         <a href="#" panel-name="suite-SmokeSuite1" title="com.innovationcu.TestCases.LandingPage_TC" class="method navigator-link" hash-for-method="clickLink_Test2">clickLink_Test2</a> <!-- method navigator-link -->
                       </span>
                       <br/>
@@ -117,7 +122,7 @@
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-SmokeSuite1" title="com.innovationcu.TestCases.Login_TC" class="method navigator-link" hash-for-method="openCredentialwebsite_Test">openCredentialwebsite_Test</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-SmokeSuite1" title="com.innovationcu.TestCases.Credential_TC" class="method navigator-link" hash-for-method="openCredentialwebsite_Test">openCredentialwebsite_Test</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-SmokeSuite1 -->
@@ -132,6 +137,21 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-SmokeSuite1" class="panel SmokeSuite1">
+          <div class="suite-SmokeSuite1-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.innovationcu.TestCases.LandingLinks_TC</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="OpenLinks_Test">
+                  </a> <!-- OpenLinks_Test -->
+                  <span class="method-name">OpenLinks_Test</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-SmokeSuite1-class-passed -->
           <div class="suite-SmokeSuite1-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -157,6 +177,21 @@
           <div class="suite-SmokeSuite1-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
+              <span class="class-name">com.innovationcu.TestCases.Credential_TC</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="openCredentialwebsite_Test">
+                  </a> <!-- openCredentialwebsite_Test -->
+                  <span class="method-name">openCredentialwebsite_Test</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-SmokeSuite1-class-passed -->
+          <div class="suite-SmokeSuite1-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
               <span class="class-name">com.innovationcu.TestCases.Login_TC</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
@@ -165,13 +200,6 @@
                   <a name="LoginPage_Test">
                   </a> <!-- LoginPage_Test -->
                   <span class="method-name">LoginPage_Test</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="openCredentialwebsite_Test">
-                  </a> <!-- openCredentialwebsite_Test -->
-                  <span class="method-name">openCredentialwebsite_Test</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -199,6 +227,8 @@
     &lt;classes&gt;
       &lt;class name=&quot;com.innovationcu.TestCases.LandingPage_TC&quot;/&gt;
       &lt;class name=&quot;com.innovationcu.TestCases.Login_TC&quot;/&gt;
+      &lt;class name=&quot;com.innovationcu.TestCases.Credential_TC&quot;/&gt;
+      &lt;class name=&quot;com.innovationcu.TestCases.LandingLinks_TC&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Innovationcu Bank Test --&gt;
 &lt;/suite&gt; &lt;!-- SmokeSuite1 --&gt;
@@ -212,7 +242,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Innovationcu Bank Test (2 classes)</span>
+                <span class="test-name">Innovationcu Bank Test (4 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -227,6 +257,10 @@
               <br/>
               <div class="method-in-group">
                 <span class="method-in-group-name">LoginPage_Test</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">OpenLinks_Test</span>
                 <br/>
               </div> <!-- method-in-group -->
               <div class="method-in-group">
@@ -258,28 +292,32 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(4);
+data.addRows(5);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'LoginPage_Test')
-data.setCell(0, 2, 'com.innovationcu.TestCases.Login_TC')
-data.setCell(0, 3, 7252);
+data.setCell(0, 1, 'openCredentialwebsite_Test')
+data.setCell(0, 2, 'com.innovationcu.TestCases.Credential_TC')
+data.setCell(0, 3, 6426);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'openCredentialwebsite_Test')
+data.setCell(1, 1, 'LoginPage_Test')
 data.setCell(1, 2, 'com.innovationcu.TestCases.Login_TC')
-data.setCell(1, 3, 6275);
+data.setCell(1, 3, 4540);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'clickLink_Test2')
-data.setCell(2, 2, 'com.innovationcu.TestCases.LandingPage_TC')
-data.setCell(2, 3, 265);
+data.setCell(2, 1, 'OpenLinks_Test')
+data.setCell(2, 2, 'com.innovationcu.TestCases.LandingLinks_TC')
+data.setCell(2, 3, 814);
 data.setCell(3, 0, 3)
-data.setCell(3, 1, 'clickLink_Test3')
+data.setCell(3, 1, 'clickLink_Test2')
 data.setCell(3, 2, 'com.innovationcu.TestCases.LandingPage_TC')
-data.setCell(3, 3, 208);
+data.setCell(3, 3, 257);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'clickLink_Test3')
+data.setCell(4, 2, 'com.innovationcu.TestCases.LandingPage_TC')
+data.setCell(4, 3, 221);
 window.suiteTableData['SmokeSuite1']= { tableData: data, tableDiv: 'times-div-SmokeSuite1'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 14 seconds</span>
+              <span class="suite-total-time">Total running time: 12 seconds</span>
               <div id="times-div-SmokeSuite1">
               </div> <!-- times-div-SmokeSuite1 -->
             </div> <!-- times-div -->
@@ -294,13 +332,27 @@ return data;
         </div> <!-- panel -->
         <div panel-name="ignored-methods-SmokeSuite1" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">2 ignored methods</span>
+            <span class="header-content">4 ignored methods</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.innovationcu.TestCases.LandingLinks_TC</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">loadConfig</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
             <div class="ignored-class-div">
               <span class="ignored-class-name">com.innovationcu.TestCases.LandingPage_TC</span>
               <div class="ignored-methods-div">
                 <span class="ignored-method-name">clickLink_Test1</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.innovationcu.TestCases.Credential_TC</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">loadConfig</span>
                 <br/>
               </div> <!-- ignored-methods-div -->
             </div> <!-- ignored-class-div -->
@@ -326,54 +378,72 @@ return data;
               </div> <!-- configuration-suite before -->
               <div class="configuration-method before">
                 <span class="method-name">setup(chrome)</span>
-                <span class="method-start">123 ms</span>
+                <span class="method-start">127 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">clickLink_Test2</span>
-                <span class="method-start">3408 ms</span>
+                <span class="method-start">3313 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">3680 ms</span>
+                <span class="method-start">3577 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">setup(chrome)</span>
-                <span class="method-start">6809 ms</span>
+                <span class="method-start">6778 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">clickLink_Test3</span>
-                <span class="method-start">9320 ms</span>
+                <span class="method-start">9386 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">9528 ms</span>
+                <span class="method-start">9607 ms</span>
               </div> <!-- configuration-method after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.innovationcu.TestCases.Login_TC</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
                 <span class="method-name">setup(chrome)</span>
-                <span class="method-start">12679 ms</span>
+                <span class="method-start">12764 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">LoginPage_Test</span>
-                <span class="method-start">16126 ms</span>
+                <span class="method-start">15328 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">23378 ms</span>
+                <span class="method-start">19868 ms</span>
               </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.innovationcu.TestCases.Credential_TC</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
                 <span class="method-name">setup(chrome)</span>
-                <span class="method-start">26570 ms</span>
+                <span class="method-start">22996 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">openCredentialwebsite_Test</span>
-                <span class="method-start">29031 ms</span>
+                <span class="method-start">25458 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">35306 ms</span>
+                <span class="method-start">31885 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.innovationcu.TestCases.LandingLinks_TC</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">35060 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">OpenLinks_Test</span>
+                <span class="method-start">37591 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">38406 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
