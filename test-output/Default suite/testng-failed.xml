@@ -8,7 +8,6 @@
           <include name="setup"/>
           <include name="tearDown"/>
           <include name="LoginPage_Test"/>
-          <include name="openCredentialwebsite_Test"/>
           <include name="loadConfig"/>
           <include name="aftersuite"/>
         </methods>

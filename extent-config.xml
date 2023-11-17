@@ -14,12 +14,12 @@
         <protocol>https</protocol>
         
         <!-- title of the document -->
-        <documentTitle>WebShop Project</documentTitle>
+        <documentTitle>eCommStore Automation Project</documentTitle>
         
         <!-- report name - displayed at top-nav -->
-        <reportName>Innovationcu Automation Report
+        <reportName>eCommStore Automation Report
         <![CDATA[
-        	<img src='E:\My Projects\Development\automation\eclipse\WebShopDemo\Logo\Cartman.png'/>
+        	<img src='E:\My Projects\Development\automation\eclipse\eCommStore\Logo\Cartman.png'/>
            ]]>
                
         </reportName>

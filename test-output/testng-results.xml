@@ -1,21 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+<testng-results ignored="4" total="9" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-26T10:12:18 MDT" name="SmokeSuite1" finished-at="2023-09-26T10:12:39 MDT" duration-ms="20371">
+  <suite started-at="2023-11-17T09:52:24 MST" name="RegressionSuite1" finished-at="2023-11-17T09:56:07 MST" duration-ms="223256">
     <groups>
+      <group name="Regression">
+        <method signature="Login_TC1.LoginPage_Test()[pri:0, instance:com.eCommStore.TestCases.Login_TC1@47af7f3d]" name="LoginPage_Test" class="com.eCommStore.TestCases.Login_TC1"/>
+        <method signature="Login_TC2.LoginPage_Test()[pri:0, instance:com.eCommStore.TestCases.Login_TC2@7c729a55]" name="LoginPage_Test" class="com.eCommStore.TestCases.Login_TC2"/>
+        <method signature="addNewCustNotUseSrchBtn_TC3.addNewCustomer_Test()[pri:0, instance:com.eCommStore.TestCases.addNewCustNotUseSrchBtn_TC3@3bb9a3ff]" name="addNewCustomer_Test" class="com.eCommStore.TestCases.addNewCustNotUseSrchBtn_TC3"/>
+        <method signature="addNewCustUseSrchBtn_TC4.addNewCustomer_Test()[pri:0, instance:com.eCommStore.TestCases.addNewCustUseSrchBtn_TC4@661972b0]" name="addNewCustomer_Test" class="com.eCommStore.TestCases.addNewCustUseSrchBtn_TC4"/>
+        <method signature="addNewCustandEdit_TC5.addNewCustomer_Test()[pri:0, instance:com.eCommStore.TestCases.addNewCustandEdit_TC5@5af3afd9]" name="addNewCustomer_Test" class="com.eCommStore.TestCases.addNewCustandEdit_TC5"/>
+      </group> <!-- Regression -->
       <group name="Smoke">
-        <method signature="Credential_TC.openCredentialwebsite_Test()[pri:0, instance:com.innovationcu.TestCases.Credential_TC@6aba2b86]" name="openCredentialwebsite_Test" class="com.innovationcu.TestCases.Credential_TC"/>
-        <method signature="LandingLinks_TC.OpenLinks_Test()[pri:0, instance:com.innovationcu.TestCases.LandingLinks_TC@158da8e]" name="OpenLinks_Test" class="com.innovationcu.TestCases.LandingLinks_TC"/>
+        <method signature="Login_TC1.LoginPage_Test()[pri:0, instance:com.eCommStore.TestCases.Login_TC1@47af7f3d]" name="LoginPage_Test" class="com.eCommStore.TestCases.Login_TC1"/>
+        <method signature="Login_TC2.LoginPage_Test()[pri:0, instance:com.eCommStore.TestCases.Login_TC2@7c729a55]" name="LoginPage_Test" class="com.eCommStore.TestCases.Login_TC2"/>
       </group> <!-- Smoke -->
     </groups>
-    <test started-at="2023-09-26T10:12:18 MDT" name="Innovationcu Bank Test" finished-at="2023-09-26T10:12:39 MDT" duration-ms="20371">
-      <class name="com.innovationcu.TestCases.Credential_TC">
-        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.innovationcu.TestCases.Credential_TC@6aba2b86]" started-at="2023-09-26T10:12:18 MDT" name="loadConfig" finished-at="2023-09-26T10:12:18 MDT" duration-ms="158" status="PASS">
+    <test started-at="2023-11-17T09:52:24 MST" name="eCommStore Test" finished-at="2023-11-17T09:56:07 MST" duration-ms="223256">
+      <class name="com.eCommStore.TestCases.addNewCustandEdit_TC5">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.eCommStore.TestCases.addNewCustandEdit_TC5@5af3afd9]" started-at="2023-11-17T09:54:55 MST" name="setup" finished-at="2023-11-17T09:54:56 MST" duration-ms="1623" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addNewCustomer_Test()[pri:0, instance:com.eCommStore.TestCases.addNewCustandEdit_TC5@5af3afd9]" started-at="2023-11-17T09:54:56 MST" name="addNewCustomer_Test" finished-at="2023-11-17T09:56:04 MST" duration-ms="68156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.eCommStore.TestCases.addNewCustandEdit_TC5@5af3afd9]" started-at="2023-11-17T09:56:04 MST" name="tearDown" finished-at="2023-11-17T09:56:07 MST" duration-ms="3008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.eCommStore.TestCases.addNewCustandEdit_TC5 -->
+      <class name="com.eCommStore.TestCases.addNewCustNotUseSrchBtn_TC3">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.eCommStore.TestCases.addNewCustNotUseSrchBtn_TC3@3bb9a3ff]" started-at="2023-11-17T09:52:47 MST" name="setup" finished-at="2023-11-17T09:52:49 MST" duration-ms="1673" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addNewCustomer_Test()[pri:0, instance:com.eCommStore.TestCases.addNewCustNotUseSrchBtn_TC3@3bb9a3ff]" started-at="2023-11-17T09:52:49 MST" name="addNewCustomer_Test" finished-at="2023-11-17T09:53:46 MST" duration-ms="56992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.eCommStore.TestCases.addNewCustNotUseSrchBtn_TC3@3bb9a3ff]" started-at="2023-11-17T09:53:46 MST" name="tearDown" finished-at="2023-11-17T09:53:49 MST" duration-ms="3017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.eCommStore.TestCases.addNewCustNotUseSrchBtn_TC3 -->
+      <class name="com.eCommStore.TestCases.Login_TC1">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.eCommStore.TestCases.Login_TC1@47af7f3d]" started-at="2023-11-17T09:52:24 MST" name="loadConfig" finished-at="2023-11-17T09:52:24 MST" duration-ms="131" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loadConfig -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.innovationcu.TestCases.Credential_TC@6aba2b86]" started-at="2023-09-26T10:12:18 MDT" name="setup" finished-at="2023-09-26T10:12:21 MDT" duration-ms="3329" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.eCommStore.TestCases.Login_TC1@47af7f3d]" started-at="2023-11-17T09:52:24 MST" name="setup" finished-at="2023-11-17T09:52:27 MST" duration-ms="2368" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,17 +75,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="openCredentialwebsite_Test()[pri:0, instance:com.innovationcu.TestCases.Credential_TC@6aba2b86]" started-at="2023-09-26T10:12:21 MDT" name="openCredentialwebsite_Test" finished-at="2023-09-26T10:12:28 MDT" duration-ms="6423" status="PASS">
+        <test-method signature="LoginPage_Test()[pri:0, instance:com.eCommStore.TestCases.Login_TC1@47af7f3d]" started-at="2023-11-17T09:52:27 MST" name="LoginPage_Test" finished-at="2023-11-17T09:52:39 MST" duration-ms="12422" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- openCredentialwebsite_Test -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.innovationcu.TestCases.Credential_TC@6aba2b86]" started-at="2023-09-26T10:12:28 MDT" name="tearDown" finished-at="2023-09-26T10:12:31 MDT" duration-ms="3148" status="PASS">
+        </test-method> <!-- LoginPage_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.eCommStore.TestCases.Login_TC1@47af7f3d]" started-at="2023-11-17T09:52:39 MST" name="tearDown" finished-at="2023-11-17T09:52:42 MST" duration-ms="3015" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.innovationcu.TestCases.Credential_TC -->
-      <class name="com.innovationcu.TestCases.LandingLinks_TC">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.innovationcu.TestCases.LandingLinks_TC@158da8e]" started-at="2023-09-26T10:12:31 MDT" name="setup" finished-at="2023-09-26T10:12:34 MDT" duration-ms="2509" status="PASS">
+      </class> <!-- com.eCommStore.TestCases.Login_TC1 -->
+      <class name="com.eCommStore.TestCases.addNewCustUseSrchBtn_TC4">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.eCommStore.TestCases.addNewCustUseSrchBtn_TC4@661972b0]" started-at="2023-11-17T09:53:49 MST" name="setup" finished-at="2023-11-17T09:53:51 MST" duration-ms="1643" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -47,15 +96,36 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="OpenLinks_Test()[pri:0, instance:com.innovationcu.TestCases.LandingLinks_TC@158da8e]" started-at="2023-09-26T10:12:34 MDT" name="OpenLinks_Test" finished-at="2023-09-26T10:12:35 MDT" duration-ms="1783" status="PASS">
+        <test-method signature="addNewCustomer_Test()[pri:0, instance:com.eCommStore.TestCases.addNewCustUseSrchBtn_TC4@661972b0]" started-at="2023-11-17T09:53:51 MST" name="addNewCustomer_Test" finished-at="2023-11-17T09:54:52 MST" duration-ms="60904" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- OpenLinks_Test -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.innovationcu.TestCases.LandingLinks_TC@158da8e]" started-at="2023-09-26T10:12:35 MDT" name="tearDown" finished-at="2023-09-26T10:12:39 MDT" duration-ms="3153" status="PASS">
+        </test-method> <!-- addNewCustomer_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.eCommStore.TestCases.addNewCustUseSrchBtn_TC4@661972b0]" started-at="2023-11-17T09:54:52 MST" name="tearDown" finished-at="2023-11-17T09:54:55 MST" duration-ms="3001" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.innovationcu.TestCases.LandingLinks_TC -->
-    </test> <!-- Innovationcu Bank Test -->
-  </suite> <!-- SmokeSuite1 -->
+      </class> <!-- com.eCommStore.TestCases.addNewCustUseSrchBtn_TC4 -->
+      <class name="com.eCommStore.TestCases.Login_TC2">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.eCommStore.TestCases.Login_TC2@7c729a55]" started-at="2023-11-17T09:52:42 MST" name="setup" finished-at="2023-11-17T09:52:44 MST" duration-ms="1575" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginPage_Test()[pri:0, instance:com.eCommStore.TestCases.Login_TC2@7c729a55]" started-at="2023-11-17T09:52:44 MST" name="LoginPage_Test" finished-at="2023-11-17T09:52:44 MST" duration-ms="833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.eCommStore.TestCases.Login_TC2@7c729a55]" started-at="2023-11-17T09:52:44 MST" name="tearDown" finished-at="2023-11-17T09:52:47 MST" duration-ms="3009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.eCommStore.TestCases.Login_TC2 -->
+    </test> <!-- eCommStore Test -->
+  </suite> <!-- RegressionSuite1 -->
 </testng-results>
